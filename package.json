@@ -1,0 +1,23 @@
+{
+  "name": "resummy",
+  "version": "1.0.0",
+  "description": "This is a resume building application for students and working professionals",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hritikkhurana10sm/Resummy.git"
+  },
+  "keywords": [
+    "Resuminator",
+    "Resummy"
+  ],
+  "author": "Hritik Khurana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hritikkhurana10sm/Resummy/issues"
+  },
+  "homepage": "https://github.com/hritikkhurana10sm/Resummy#readme"
+}
