@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/hritikkhurana10sm/Resummy/issues"
   },
-  "homepage": "https://github.com/hritikkhurana10sm/Resummy#readme"
+  "homepage": "https://github.com/hritikkhurana10sm/Resummy#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1",
+    "html-pdf": "^3.0.1"
+  }
 }
